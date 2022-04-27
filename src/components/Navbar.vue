@@ -4,7 +4,7 @@
             <div class="container">
                 <a class="navbar-brand" v-on:click="this.$router.push('/')" href="javascript:;">
                     <img src="../assets/medal.png" width="30" height="30" class="icon d-inline-block align-top logo" alt="">
-                    E-SERTIFIKAT
+                    E-SERTIFIKAT BONE-BOLANGO
                 </a>
                 <a class="navbar-brand" href="#"></a>
             </div>
